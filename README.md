@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in New Jersey
 
-> Free BeamStation sample export with 128 rows and masked direct-contact fields.
+> Free BeamStation sample export with 148 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `566219` |
 | Location | New Jersey |
 | Category | Food and Drink |
-| Full dataset size | 1,282 records |
-| Free sample size | 128 records (9.98%) |
-| Last export | 2026-04-16T21:39:30.487697+00:00 |
+| Full dataset size | 1,486 records |
+| Free sample size | 148 records (9.96%) |
+| Last export | 2026-04-23T16:39:34.114235+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-566219/releases/download/sample-latest/beamstation_566219_food_and_drink-us-nj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
